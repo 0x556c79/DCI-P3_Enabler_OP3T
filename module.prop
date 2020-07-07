@@ -1,7 +1,7 @@
 id=DCI-P3_Enabler_OP3T
 name=DCI-P3 Enabler for OP3T
-version=1.1
-versionCode=1.1
+version=1.2
+versionCode=1.2
 author=doubleaykay
 description=Enables DCI-P3 color gamut on OnePlus 3T
 minMagisk=2000
